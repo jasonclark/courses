@@ -109,6 +109,8 @@ Mohorovicic, S. ["Implementing responsive web design for enhanced web presence."
 
 **Lecture in Course Session on 10/27 from 10:30 am to 11 am CST**
 
+**Required Readings:**
+
 [The App Shell Model - Google Developers, Web Fundamentals](https://developers.google.com/web/fundamentals/architecture/app-shell)
 
 Guha, Ramanathan V., Dan Brickley, and Steve Macbeth. ["Schema. org: Evolution of structured data on the web."](http://queue.acm.org/detail.cfm?id=2857276) Communications of the ACM 59, no. 2 (2016): 44-51. 
