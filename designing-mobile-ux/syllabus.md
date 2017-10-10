@@ -1,4 +1,4 @@
-##Designing for Mobile: Crafting a Mobile UX for Apps and Websites##
+## Designing for Mobile: Crafting a Mobile UX for Apps and Websites
 
 School of Library and Information Studies, University of Wisconsin-Madison - Fall 2017
 
@@ -14,11 +14,11 @@ Friday 11 am to 12pm CST</td>
 </table>
 
 
-###COURSE DESCRIPTION###
+### COURSE DESCRIPTION
 
 During this course, we will examine what it means to build and design for the mobile platform and how these practices can inform standard web development and design practices. Our emphasis will be on the creation of a working mobile web sketch or app and a series of readings to ground our understanding of what it means to design and develop for mobile settings.
 
-###COURSE OBJECTIVES###
+### COURSE OBJECTIVES
 
 Upon completing this course, students will be able to:
 
@@ -32,7 +32,7 @@ Upon completing this course, students will be able to:
 
 This course is designed to assess student progress under [the SLIS program-level outcomes 3a and 3d](http://vanhise.lss.wisc.edu/slis/ProgramLevel_LOs.htm).
 
-###COURSE POLICIES###
+### COURSE POLICIES
 
 **Academic Honesty**: I follow the academic standards for cheating and plagiarism set forth by the University of Wisconsin.
 
@@ -40,7 +40,7 @@ This course is designed to assess student progress under [the SLIS program-level
 
 **Contacting me**: For any difficulty with the course that is not private or confidential, please ask in class or use the Canvas help forum. I am not available on weekends, but I will try to be prompt in answering course and forum questions and email within 2 business days.
 
-###COURSE FORMAT, ASSIGNMENTS, and GRADING###
+### COURSE FORMAT, ASSIGNMENTS, and GRADING
 
 The class will consist of online lectures and discussion, as well as required readings. 20 minute lectures will be conducted every Friday morning in a Canvas course session. Each week there will be a short assignment related to the topic for the week and an expectation that you post about one of the required readings. The course has a single project in which you produce a mobile web app sketch or prototype. Phases of the course project assignment to build your skills around designing and developing mobile experiences will be assigned periodically. The series/phases of course assignments over the five weeks will result in your producing a mobile web app sketch or prototype.
 
@@ -77,7 +77,7 @@ The class will consist of online lectures and discussion, as well as required re
 
 **Grading scale**: 100-93.5 A; 93.4-89.5 AB; 89.4-83.5 B; 83.4-79.5 BC; 79.4-73.5 C, 69.5-73.4 D, below 69.5 F
 
-###WEEK 1 - DESIGNING FOR THE MOBILE USER###
+### WEEK 1 - DESIGNING FOR THE MOBILE USER
 
 **Lecture in Course Session on 10/13 from 10:30 am to 11 am CST**
 
@@ -91,7 +91,7 @@ The class will consist of online lectures and discussion, as well as required re
 
 ["How to design for mobile devices, when you don’t have one" by Ezequiel Bruni](http://www.webdesignerdepot.com/2014/07/how-to-design-for-mobile-devices-when-you-dont-have-one/) 
 
-###WEEK 2 - RESPONSIVE WEB DESIGN MODELS###
+### WEEK 2 - RESPONSIVE WEB DESIGN MODELS
 
 **Lecture in Course Session on 10/20 from 10:30 am to 11 am CST**
 
@@ -105,7 +105,7 @@ Mohorovicic, S. ["Implementing responsive web design for enhanced web presence."
 
 ["Responsive Web Design" by Ethan Marcotte](http://alistapart.com/article/responsive-web-design/)
 
-###Week 3 - MOBILE MARKUP AND STRUCTURED DATA###
+### Week 3 - MOBILE MARKUP AND STRUCTURED DATA
 
 **Lecture in Course Session on 10/27 from 10:30 am to 11 am CST**
 
@@ -117,7 +117,7 @@ Guha, Ramanathan V., Dan Brickley, and Steve Macbeth. ["Schema. org: Evolution o
 
 [An Overview of Accessible Web Applications and Widgets - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Accessibility/An_overview_of_accessible_web_applications_and_widgets) 
 
-###WEEK 4 - NATIVE APPS AND PROGRESSIVE WEB APPS###
+### WEEK 4 - NATIVE APPS AND PROGRESSIVE WEB APPS
 
 **Lecture in Course Session on 11/03 from 10:30 am to 11 am CST**
 
@@ -129,7 +129,7 @@ Guha, Ramanathan V., Dan Brickley, and Steve Macbeth. ["Schema. org: Evolution o
 
 [Progressive Web Apps: Escaping Tabs Without Losing Our Soul by Alex Russell](https://medium.com/@slightlylate/progressive-apps-escaping-tabs-without-losing-our-soul-3b93a8561955)
 
-###Week 5 - MOBILE ANALYTICS AND METRICS FOR EVALUATION###
+### Week 5 - MOBILE ANALYTICS AND METRICS FOR EVALUATION
 
 **Lecture in Course Session on 11/10 from 10:30 am to 11 am CST**
 
